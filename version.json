@@ -1,1 +1,4 @@
-loader version {version v1.0}
+{
+  "version": "1.1",
+  "download": "https://drive.google.com/file/d/ВАШ_ID/view?usp=sharing"
+}
